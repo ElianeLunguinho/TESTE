@@ -12,7 +12,7 @@ O conversor foi desenvolvido com:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/conversor.git
+(https://elianelunguinho.github.io/TESTE/
 ```
 
 2. Instale as dependências:
